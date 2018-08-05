@@ -2,6 +2,9 @@
 <html>
 <head>
 <style>
+body{
+    background-repeat: no-repeat;
+}
 h1 {
     color: #A9A9A9;
     font-family: "comic sans ms";
